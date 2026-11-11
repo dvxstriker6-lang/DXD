@@ -1,0 +1,6 @@
+{
+  "name": "DXD",
+  "description": "Premium social gaming app with tournaments, gaming feeds, real-time messaging, and player profiles in sleek black and red neon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
